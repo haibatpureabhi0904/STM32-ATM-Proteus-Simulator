@@ -1,3 +1,7 @@
+<img width="1680" height="846" alt="Screenshot 2026-08-29 010525" src="https://github.com/user-attachments/assets/508a2206-e6f4-4d27-8a7d-b6de71bd4d5d" />
+<img width="1688" height="847" alt="Screenshot 2026-08-29 010349" src="https://github.com/user-attachments/assets/0d5c417c-4e8f-4a16-8dfc-8454151256e4" />
+<img width="1685" height="846" alt="Screenshot 2026-08-29 010252" src="https://github.com/user-attachments/assets/425ddea4-c98a-4cbb-9022-9ba22b0ce162" />
+<img width="1691" height="845" alt="Screenshot 2026-08-29 010138" src="https://github.com/user-attachments/assets/fbc3b9a8-deba-4012-adca-bb91da84a4ca" />
 # STM32 Automated Teller Machine (ATM) System Simulator
 
 A bare-metal STM32 microcontroller firmware implementation of an interactive ATM interface featuring a Finite State Machine (FSM), 4x4 matrix keypad input, an 8-bit parallel 16x2 alphanumeric LCD, a multiplexed 4-digit common anode 7-segment display, an analog joystick navigation control, and LED status indicators.
